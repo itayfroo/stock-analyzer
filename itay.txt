@@ -1,8 +1,15 @@
+==== GIT =====
 stage - choose which of my changes I want to commit
 commit - add to my local repo
 push - from my local repo to remote repo
 pull - get from remote to my local
-
 clone - create my local repo from remote
-
 Fetch - update about changes in the reomote
+
+
+===== PYTHON =====
+create venv:
+python -m venv venv
+
+to activate the venv:
+.\venv\Scripts\activate
