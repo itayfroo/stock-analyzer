@@ -13,3 +13,7 @@ python -m venv venv
 
 to activate the venv:
 .\venv\Scripts\activate
+
+ pip freeze > requirements.txt - to create requirements.text
+
+pip install -r requirements.txt - To download everything

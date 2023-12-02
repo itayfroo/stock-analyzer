@@ -11,8 +11,7 @@ import sys
 from tkcalendar import Calendar
 from datetime import datetime, timedelta
 from PIL import Image, ImageTk
-import speech_recognition as sr
-import pyttsx3
+
 
 chrome_options = Options()
 chrome_options.add_argument('--headless')
