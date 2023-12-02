@@ -5,4 +5,4 @@ pull - get from remote to my local
 
 clone - create my local repo from remote
 
-Itay
+Fetch - update about changes in the reomote
