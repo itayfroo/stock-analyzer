@@ -4,3 +4,5 @@ push - from my local repo to remote repo
 pull - get from remote to my local
 
 clone - create my local repo from remote
+
+Itay
